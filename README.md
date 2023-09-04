@@ -18,7 +18,7 @@ This repository contains the analysis workflow for our preprint &ldquo;Dynamic L
 
 The workflow here contains three main components: polarisation, sites, and quenching which cover all the analysis of molecular dynamics simulations presented in the main paper. Each section consits of one or two annotated jupyter notebooks which show how all the simulations in the main paper were generated from raw simulation data.
 
-The full simulation data and experimental data will be provided in a data repositiory at time of publication in a peer reviewed journal. Further infromation on this workflow can provided on reasonable request.
+This workflow is non operational due to the lack of trajectory files a functional version is provided on the Bath University research Archive.
 
 ## Polarisation
 The notebooks in Polarisation take as input a list of atomic dipoles calculted using wannier90 from snapshots taken from the length of an aimd simulation. From these dipoles it calculates the dipole autocorellation function (in Autocorrelation.ipynb), dipole orientated spatial distribution function, and orientation populations matrix (in Dipole Correlation.ipynb).
