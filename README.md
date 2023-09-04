@@ -14,7 +14,7 @@ Authors:
 - Damien Dambournet
 
 ## Summary
-This repository contains the analysis workflow for our preprint &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub>&rdquo; now availible on Arxiv.
+This repository contains the analysis workflow for our preprint &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub> &rdquo; now availible on chemRXiv.
 
 The workflow here contains two main components: polarisation, sites, and quenching which cover all the analysis of molecular dynamics simulations presented in the main paper. Each section consits of one or two annotated jupyter notebooks which show how all the simulations in the main paper were generated from raw simulation data.
 
