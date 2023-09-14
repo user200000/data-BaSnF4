@@ -4,6 +4,7 @@ This directory creates the figures plotted from quenched structures it containts
 The relaxed structures are drawn from the directiories:
 - Structures: contains quenched structures from the real MD.
 - Static_structures: containes quenched structures from the static fluorine MD.
+
 These structures are availible in the version present on the bath research archive and contain:
 - INCAR
 - vasprun.xml
