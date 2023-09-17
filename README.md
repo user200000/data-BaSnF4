@@ -29,4 +29,12 @@ The notebooks in Polarisation take as input a list of atomic dipoles calculted u
 The notebooks in sites take as input the XDATCAR and vasprun trajectory files taken from the aimd simulations. The first book sites.ipynb uses the site analysis library to generate figures 7 and 9 in the main paper. The Density.ipynb notebook uses the revelsMD code to calculate the ion densities presented in figure 6.
 
 ## Quenching
-The notebook in quenching takes POSCARS from structures which were quenched and calculates the structural graphs presented in Figure 5. And also produces th
+The notebook in quenching takes POSCARS from structures which were quenched and calculates the structural graphs presented in Figure 5. And also produces the two panels of Fig S4.
+
+## Volume
+
+This notebook shows the method of fitting the Birch Murnaghan equation of state to 600K aimd simulations of cells of different size. This method is used to get an appropriate volume for the simulated cell.
+
+## Experimental
+
+This directory contains excel workbooks of numerical data plotted in the experimental figures in the paper.
