@@ -38,3 +38,9 @@ This notebook shows the method of fitting the Birch Murnaghan equation of state 
 ## Experimental
 
 This directory contains excel workbooks of numerical data plotted in the experimental figures in the paper.
+
+## Files in this directory
+
+This directory contains two further files:
+- POTCAR_list contains the pseudopotentials used for BaSnF4 in vasp
+- environment.yml describes the python environment used for all subsequent analysis.
