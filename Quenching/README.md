@@ -7,7 +7,7 @@ The relaxed structures are drawn from the directiories:
 - `Structures`: contains quenched structures from the real MD.
 - `Static_structures`: contains quenched structures from the static fluorine MD.
 
-These structures are availible in the full version of this dataset, available on the University of Bath Research Data Archive, and contain:
+These structures are provided in the full version of this dataset, which is available on the University of Bath Research Data Archive, and contains:
 
 - `INCAR`
 - `vasprun.xml`
