@@ -1,4 +1,4 @@
-This subdirectory handles site- and density-based analysis. It contains three Jupyter notebooks:
+This subdirectory handles site- and density-based analysis. It contains one Jupyter notebook:
 
 `Volume Calculation.ipynb`: This calculates optimal volume at 600&nbsp;K from short trajectories of systems with different sizes.
 
