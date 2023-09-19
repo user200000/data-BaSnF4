@@ -12,3 +12,4 @@ Each run is stored in a number `r` subdirectory and contains the following files
 - `CONTCAR` (final structure)
 - `vasprun.xml`
 - `INCAR`
+- `XDATCAR`
