@@ -16,7 +16,7 @@ Authors:
 ## Summary
 This repository contains the analysis and figure-plotting workflow for the manuscript &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub>&rdquo; ([chemRXiv](https://doi.org/10.26434/chemrxiv-2023-m4014-v2)).
 
-The theoretical workflow here contains four main components: `Volume`, `Polarisation`, `Sites`, and `Quenching`, which cover all the analysis of molecular dynamics simulations presented in the main paper as well as the preparatory calculations peformed in order to obtain an appropriate cell volume. Each section consits of one to three annotated jupyter notebooks that show how the computational analysis in the paper were generated from raw simulation data.
+The theoretical workflow here contains four main components: `Volume`, `Polarisation`, `Sites`, and `Quenching`, which cover all the analysis of molecular dynamics simulations presented in the main paper as well as the preparatory calculations peformed in order to obtain an appropriate cell volume. Each section consits of one to three annotated Jupyter notebooks that show how the computational analysis in the paper were generated from raw simulation data.
 
 Rerunning this workflow requires the input AIMD trajectory files, which are not included in this repository due to a lack of space. A fully functional version is provided on the Bath University research Archive [awaiting DOI].
 
@@ -42,5 +42,5 @@ This directory contains excel workbooks of numerical data plotted in the experim
 ## Files in this directory
 
 This directory contains two further files:
-- `POTCAR_list` contains the pseudopotentials used for BaSnF<sub>4</sub> in vasp
+- `POTCAR_list` contains a list of the pseudopotentials used for BaSnF<sub>4</sub> in `VASP`.
 - `environment.yml` describes the Python environment used for all subsequent analysis.
