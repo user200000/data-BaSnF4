@@ -14,7 +14,7 @@ Each subdirectory contains:
 - `wannier90.eig`: Final wannier eigenfucntion output
 - `wannier90.wout`: Output of final wannierisation run for this structure
 - `wannier2dipoles_new.py`: The Python script used to convert centres to dipoles
-- `wannier90.win`: Input file for wannier90 for this structure
+- `wannier90.win`: Input file for `wannier90` for this structure
 - `wannier90_centres.xyz`: Locations of Wannier centres in `xyz` format
 - `POSCAR `: The structure that was wannierised in `POSCAR` format
 
