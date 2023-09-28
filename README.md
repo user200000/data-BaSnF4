@@ -1,4 +1,6 @@
 # Data analysis for &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub>&rdquo;
+[![DOI](https://zenodo.org/badge/672827700.svg)](https://zenodo.org/badge/latestdoi/672827700)
+
 
 
 Authors:
