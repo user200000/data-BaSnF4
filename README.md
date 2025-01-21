@@ -16,7 +16,7 @@ Authors:
 - Damien Dambournet (orcid: [0000-0003-3831-2643](https://orcid.org/0000-0003-3831-2643))
 
 ## Summary
-This repository contains the analysis and figure-plotting workflow for the manuscript &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub>&rdquo; ([paper]((https://doi.org/10.1021/jacs.3c08232)).
+This repository contains the analysis and figure-plotting workflow for the manuscript &ldquo;Dynamic Lone Pairs and Fluoride-Ion Disorder in Cubic-BaSnF<sub>4</sub>&rdquo; ([paper](https://doi.org/10.1021/jacs.3c08232)).
 
 The theoretical workflow here contains four main components: `Volume`, `Polarisation`, `Sites`, and `Quenching`, which cover all the analysis of molecular dynamics simulations presented in the main paper as well as the preparatory calculations peformed in order to obtain an appropriate cell volume. Each section consits of one to three annotated Jupyter notebooks that show how the computational analysis in the paper were generated from raw simulation data.
 
